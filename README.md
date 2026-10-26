@@ -1,9 +1,9 @@
 # FinBrief AI
 
 FinBrief AI turns current financial reporting into concise, beginner-friendly briefs. It combines NewsAPI stories with grounded Groq Llama 3.3 70B summaries, takeaways, decoded terms, bookmarks, search, sharing, and light/dark themes.
-
+Demo link:https://drive.google.com/file/d/13LzzCoJw1IjtKoT2_z8AHlOQITIPAq8_/view
 ## Technology
-
+Full document:https://1drv.ms/w/c/C7AB96B2FFD18EF6/IQAsqqf8XX-yTJu9eqwJEMREATfpuYMAuYTZu0DtKyM88ps?e=NX31xe
 TanStack Start, React, TypeScript, Netlify Functions, Netlify Database with Drizzle, NewsAPI, Groq, plus an optional FastAPI/SQLite backend.
 
 ## Local setup
