@@ -5,7 +5,7 @@ Demo link:https://drive.google.com/drive/folders/1Kfi6ZmVpEbKx1cQhIbIZzLIkdUL1XW
 ## Technology
 Full document:https://1drv.ms/w/c/C7AB96B2FFD18EF6/IQAsqqf8XX-yTJu9eqwJEMREATfpuYMAuYTZu0DtKyM88ps?e=NX31xe
 TanStack Start, React, TypeScript, Netlify Functions, Netlify Database with Drizzle, NewsAPI, Groq, plus an optional FastAPI/SQLite backend.
-
+Demo link:https://drive.google.com/drive/folders/1Kfi6ZmVpEbKx1cQhIbIZzLIkdUL1XWCV
 ## Local setup
 
 1. Copy `.env.example` to `.env` and add `NEWS_API_KEY` and `GROQ_API_KEY`.
